@@ -1,9 +1,9 @@
 # HTTP_Version
 
 
-HTTP (HyperText Transfer Protocol) is the underlying protocol of the World Wide Web. Developed by Tim Berners-Lee and his team between 1989-1991, HTTP has seen many changes, keeping most of the simplicity and further shaping its flexibility. HTTP has evolved from an early protocol to exchange files in a semi-trusted laboratory environment, to the modern maze of the Internet, now carrying images, videos in high resolution and 3D.
+... HTTP (HyperText Transfer Protocol) is the underlying protocol of the World Wide Web. Developed by Tim Berners-Lee and his team between 1989-1991, HTTP has seen many changes, keeping most of the simplicity and further shaping its flexibility. HTTP has evolved from an early protocol to exchange files in a semi-trusted laboratory environment, to the modern maze of the Internet, now carrying images, videos in high resolution and 3D.
 
-In 1989, Tim Berners-Lee wrote a proposal to build a hypertext system over the Internet. Initially calling it the Mesh, it was later renamed to World Wide Web during its implementation in 1990. Built over the existing TCP and IP protocols, it consisted of 4 building blocks:
+... In 1989, Tim Berners-Lee wrote a proposal to build a hypertext system over the Internet. Initially calling it the Mesh, it was later renamed to World Wide Web during its implementation in 1990. Built over the existing TCP and IP protocols, it consisted of 4 building blocks:
 
 A textual format to represent hypertext documents, the HyperText Markup Language (HTML).
 A simple protocol to exchange these documents, the HypertText Transfer Protocol (HTTP).
@@ -43,4 +43,4 @@ Popular web servers (Apache, Nginx) still supports HTTP/0/9. Try opening up a Te
 * It compresses headers. As these are often similar among a set of requests, this removes duplication and overhead of data transmitted.
 * It allows a server to populate data in a client cache, in advance of it being required, through a mechanism called the server push.
 
-     This evolution of HTTP proves its extensibility and simplicity, liberating creation of many applications and compelling, the adoption of the protocol.he adoption of HTTP/2 hints at a bright future for the protocol.The next major version of HTTP, HTTP/3, will use QUIC instead TCP/TLS for the transport layer portion.
+... This evolution of HTTP proves its extensibility and simplicity, liberating creation of many applications and compelling, the adoption of the protocol.he adoption of HTTP/2 hints at a bright future for the protocol.The next major version of HTTP, HTTP/3, will use QUIC instead TCP/TLS for the transport layer portion.
