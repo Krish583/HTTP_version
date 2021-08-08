@@ -43,4 +43,4 @@ Popular web servers (Apache, Nginx) still supports HTTP/0/9. Try opening up a Te
 * It compresses headers. As these are often similar among a set of requests, this removes duplication and overhead of data transmitted.
 * It allows a server to populate data in a client cache, in advance of it being required, through a mechanism called the server push.
 
-  This evolution of HTTP proves its extensibility and simplicity, liberating creation of many applications and compelling, the adoption of the protocol.he adoption of HTTP/2 hints at a bright future for the protocol.The next major version of HTTP, HTTP/3, will use QUIC instead TCP/TLS for the transport layer portion.
+     This evolution of HTTP proves its extensibility and simplicity, liberating creation of many applications and compelling, the adoption of the protocol.he adoption of HTTP/2 hints at a bright future for the protocol.The next major version of HTTP, HTTP/3, will use QUIC instead TCP/TLS for the transport layer portion.
